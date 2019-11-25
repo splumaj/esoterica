@@ -8,7 +8,8 @@ export default function App() {
   return (
     <div className="App">
       <AudioPlayer />
-      <FloatingText />
+      <FloatingText top="14rem" right="27rem">この世界の運命は</FloatingText>
+      <FloatingText top="18rem" right="16rem">悪人の負担だ</FloatingText>
       <VideoBackground />
     </div>
   );

@@ -1,6 +1,6 @@
 import React from 'react';
 import videoUrl from '../../video/swing.mp4';
-import { Video } from './style.js';
+import { Video } from './style';
 
 export default function VideoBackground () {
   return (
